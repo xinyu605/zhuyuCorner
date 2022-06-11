@@ -1,0 +1,9 @@
+{
+  "workbench.colorTheme": "Darcula",
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.tabSize": 2,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "eslint.packageManager": "yarn"
+}
